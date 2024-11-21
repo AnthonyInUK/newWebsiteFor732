@@ -1,5 +1,5 @@
 import React from 'react';
-import { StickyScrollRevealDemo } from '@/components/ui/StickyScrollRevealController';
+import { StickyScrollRevealDemo } from '../../components/stickyScroll/StickyScrollRevealController';
 function page() {
   return (
     <div>

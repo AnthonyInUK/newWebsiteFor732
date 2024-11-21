@@ -1,10 +1,10 @@
 // app/layout.js
 import React from 'react';
-import { SidebarController } from '@/components/ui/SidebarController';
+import { SidebarController } from '../components/sideBar/SidebarController';
 import './globals.css';
 
 export const metadata = {
-  title: 'My Next.js App',
+  title: 'Final project for cmpt732',
   description: 'This is a Next.js app with a persistent sidebar.',
 };
 

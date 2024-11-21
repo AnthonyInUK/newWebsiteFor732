@@ -2,7 +2,7 @@
 import React from 'react';
 import Image from 'next/image';
 import { twMerge } from 'tailwind-merge';
-import { TracingBeam } from '../ui/tracing-beam';
+import { TracingBeam } from './tracing-beam';
 import { cn } from '@/lib/utils';
 import defaultImage from '@/public/images/default_image.png';
 
